@@ -3673,12 +3673,6 @@
       "price": 1542
     },
     {
-      "abr": "dirtcubesculpture",
-      "category": "Art",
-      "defname": "DirtCubeSculpture",
-      "price": 30
-    },
-    {
       "abr": "disruptorflarepack",
       "category": "Utility",
       "defname": "Apparel_DisruptorFlarePack",
@@ -4075,12 +4069,6 @@
       "price": 101
     },
     {
-      "abr": "sandcubesculpture",
-      "category": "Art",
-      "defname": "SandCubeSculpture",
-      "price": 30
-    },
-    {
       "abr": "sash",
       "category": "Misc",
       "defname": "Apparel_Sash",
@@ -4097,12 +4085,6 @@
       "category": "Furniture",
       "defname": "SchoolDesk",
       "price": 104
-    },
-    {
-      "abr": "scrapcubesculpture",
-      "category": "Art",
-      "defname": "ScrapCubeSculpture",
-      "price": 30
     },
     {
       "abr": "serumlab",
@@ -4175,12 +4157,6 @@
       "category": "Manufactured",
       "defname": "SubcoreRegular",
       "price": 500
-    },
-    {
-      "abr": "stonecubesculpture",
-      "category": "Art",
-      "defname": "StoneCubeSculpture",
-      "price": 30
     },
     {
       "abr": "subcoreencoder",
