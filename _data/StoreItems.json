@@ -4219,12 +4219,6 @@
       "price": 92
     },
     {
-      "abr": "toxalope",
-      "category": "Animals",
-      "defname": "Toxalope",
-      "price": 583
-    },
-    {
       "abr": "toxalopemeat",
       "category": "Meat",
       "defname": "Meat_Toxalope",
@@ -4277,12 +4271,6 @@
       "category": "Furniture",
       "defname": "WallLamp",
       "price": 49
-    },
-    {
-      "abr": "wasterat",
-      "category": "Animals",
-      "defname": "WasteRat",
-      "price": 58
     },
     {
       "abr": "wasteratmeat",
