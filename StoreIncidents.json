@@ -1,0 +1,50 @@
+{
+	"incitems" : [
+	{
+		"abr": "meteor",
+		"price": 150,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wildman",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "skillincrease",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "levelskill",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "trait",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removetrait",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "genderswap",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
+	}
+	],
+	"total": 9
+}
